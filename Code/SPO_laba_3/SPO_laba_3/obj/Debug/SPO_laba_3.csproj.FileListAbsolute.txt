@@ -1,0 +1,9 @@
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba3\Code\SPO_laba_3\SPO_laba_3\bin\Debug\SPO_laba_3.exe.config
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba3\Code\SPO_laba_3\SPO_laba_3\bin\Debug\SPO_laba_3.exe
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba3\Code\SPO_laba_3\SPO_laba_3\bin\Debug\SPO_laba_3.pdb
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba3\Code\SPO_laba_3\SPO_laba_3\obj\Debug\SPO_laba_3.csprojResolveAssemblyReference.cache
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba3\Code\SPO_laba_3\SPO_laba_3\obj\Debug\SPO_laba_3.Form1.resources
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba3\Code\SPO_laba_3\SPO_laba_3\obj\Debug\SPO_laba_3.Properties.Resources.resources
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba3\Code\SPO_laba_3\SPO_laba_3\obj\Debug\SPO_laba_3.csproj.GenerateResource.Cache
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba3\Code\SPO_laba_3\SPO_laba_3\obj\Debug\SPO_laba_3.exe
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba3\Code\SPO_laba_3\SPO_laba_3\obj\Debug\SPO_laba_3.pdb

@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Drawing;
 using System.Windows.Forms;
 
 namespace SPO_laba_3
@@ -21,23 +14,23 @@ namespace SPO_laba_3
          
         protected override void OnKeyDown(KeyEventArgs e)
         {
-            //if (e.Control && e.Alt && e.KeyCode == Keys.A)
-            //keysmod == Keys.Alt
+
             Keys keysmod = Control.ModifierKeys;
             if (e.Alt)
             {
                 if (e.KeyCode == Keys.K)
                 {
                     pictureBox1.Visible = true;
+                    pictureBox1.Enabled = true;
+                    label2.Visible = false;
                 }
             }
+
             //-------------------------  Верх  ------------
             if (e.KeyCode == Keys.Up)
             {
                 int y = 10;
                 label1.Text = "Верх";
-                pictureBox1.Visible = true;  // Временно
-
                 pictureBox1.Location = new Point(pictureBox1.Location.X, pictureBox1.Location.Y - y);
                 
                 if (pictureBox1.Location.Y < -170)
@@ -51,6 +44,7 @@ namespace SPO_laba_3
                 }
 
             }
+
             //-------------------------  Вниз  ------------
             if (e.KeyCode == Keys.Down)
             {
@@ -98,14 +92,7 @@ namespace SPO_laba_3
 
                     pictureBox1.Location = new Point(left_X, pictureBox1.Location.Y);
                 }
-
             }
-        }
-
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

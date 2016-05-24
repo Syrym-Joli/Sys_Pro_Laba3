@@ -12,3 +12,7 @@
 
 <p></p>
 <img src="https://github.com/Syrym-Joli/Sys_Pro_Laba3/blob/master/Code/scrin/1.png" alt="scrin">
+
+
+<p>P.S. эмм там при нажати клавы Alt – K </p>
+
